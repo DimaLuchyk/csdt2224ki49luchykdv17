@@ -1,1 +1,1 @@
-Student: Luchyk Dmytro, KI-49, chess online game. Using JAVASCRIPT
+Student: Luchyk Dmytro, KI-49, tic-tac-toe game (unlimited board), JSON 
